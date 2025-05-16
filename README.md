@@ -1,4 +1,4 @@
-<h1 align="center">Amine | Software Developer</h1>
+<h1 align="center">I'm Amine BAHYOUL | Software Developer & Cyber Security Enthusiasm</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BhlHk&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
@@ -6,10 +6,10 @@
 Professional Summary
 Dedicated software developer with a focus on machine learning and web technologies. Combining strong analytical skills with technical expertise to develop efficient, scalable solutions.
 Technical Expertise
-Languages:    Python, JavaScript, HTML, CSS
-Learning:     React
-Interests:    Machine Learning, Web Development
-Working on:   projectML
+Languages:    Python, Java, JavaScript, HTML, CSS
+Learning:     Spring Boot & Angular
+Interests:    Machine Learning, Web Development, Cyber Security
+Working on:   ServiceHub
 Professional Experience
 
 Developing ML-based applications with focus on scalability and performance
@@ -43,8 +43,8 @@ Focusing on best practices in software architecture and design patterns
 Connect Professionally
 <p align="center">
   <a href="https://github.com/BhlHk"><img src="https://img.shields.io/badge/GitHub-%23121011?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:bahyoul.amine@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="linkedin.com/in/aminebahyoul"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <p align="center">
