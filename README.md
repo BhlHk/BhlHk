@@ -33,11 +33,10 @@ const amine = {
 };
 ```
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### 🎯 What I'm up to
 
-- 🔭 Currently working on **[ServiceHub](https://github.com/BhlHk/ServiceHub)**
+- 🔭 Currently working on Threat detection using Artificiel Intelligence**
 - 🌱 Learning **Spring Boot & Angular** for enterprise applications
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Python, Java, Web Development, ML**
