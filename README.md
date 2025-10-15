@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-aminebahyoul.vercel.app-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aminebahyoul.vercel.app/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-aminebahyoul.me-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aminebahyoul.me/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-aminebahyoul-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aminebahyoul)
   [![Email](https://img.shields.io/badge/Email-bahyoul.amine-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bahyoul.amine@gmail.com)
   
@@ -36,7 +36,7 @@
 const amine = {
     pronouns: "He/Him",
     location: "Morocco 🇲🇦",
-    portfolio: "https://aminebahyoul.vercel.app/",
+    portfolio: "https://aminebahyoul.me/",
     currentFocus: "Building ServiceHub - A comprehensive service management platform",
     learning: ["Spring Boot", "Angular", "Cloud Architecture"],
     interests: ["Machine Learning", "Web Development", "Cyber Security", "Open Source"],
@@ -166,9 +166,9 @@ Cloud (AWS)    ████████████░░░░░░░░   60
 
 <div align="center">
   
-  ### 🔗 Check out more projects on [my portfolio](https://aminebahyoul.vercel.app/)
+  ### 🔗 Check out more projects on [my portfolio](https://aminebahyoul.me/)
   
-  <a href="https://aminebahyoul.vercel.app/">
+  <a href="https://aminebahyoul.me/">
     <img src="https://img.shields.io/badge/View_Portfolio-36BCF7FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
   
@@ -208,8 +208,8 @@ Cloud (AWS)    ████████████░░░░░░░░   60
 
 <div align="center">
   
-  <a href="https://aminebahyoul.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-aminebahyoul.vercel.app-FF5722?style=for-the-badge" alt="Portfolio">
+  <a href="https://aminebahyoul.me/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-aminebahyoul.me-FF5722?style=for-the-badge" alt="Portfolio">
   </a>
   <a href="https://github.com/BhlHk">
     <img src="https://img.shields.io/badge/GitHub-BhlHk-181717?style=for-the-badge&logo=github" alt="GitHub">
