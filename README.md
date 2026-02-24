@@ -37,11 +37,11 @@ const amine = {
     pronouns: "He/Him",
     location: "Morocco 🇲🇦",
     portfolio: "https://aminebahyoul.me/",
-    currentFocus: "Building ServiceHub - A comprehensive service management platform",
-    learning: ["Spring Boot", "Angular", "Cloud Architecture"],
+    currentFocus: "Building AI-powered threat detection & privacy-shield security tool",
+    learning: ["Spring Boot", "Angular", "Cloud Architecture", "DevSecOps"],
     interests: ["Machine Learning", "Web Development", "Cyber Security", "Open Source"],
     funFact: "I debug with console.log and I'm not ashamed! 😄",
-    askMeAbout: ["Python", "Java", "JavaScript", "AI/ML", "Cybersecurity"],
+    askMeAbout: ["Python", "Java", "JavaScript", "AI/ML", "Cybersecurity", "DevOps"],
     techCommunities: {
         member: ["Dev.to", "Stack Overflow", "GitHub"],
         contributor: "Open Source Projects"
@@ -54,10 +54,10 @@ const amine = {
 
 <div align="left">
 
-- 🔭 Currently working on **Threat detection using Artificial Intelligence**
-- 🌱 Learning **Spring Boot & Angular** for enterprise applications
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Python, Java, Web Development, ML**
+- 🔭 Currently working on **AI-powered Threat Detection & Privacy Shield (TypeScript/Python)**
+- 🌱 Learning **Spring Boot, Angular & DevSecOps** for enterprise and secure applications
+- 👯 Looking to collaborate on **Open Source & Cybersecurity Projects**
+- 💬 Ask me about **Python, Java, Web Development, ML, DevOps**
 - ⚡ Fun fact: **I love solving CTF challenges in my free time!**
 - 📫 Reach me at: **bahyoul.amine@gmail.com**
 
@@ -71,11 +71,11 @@ const amine = {
 
 <div align="center">
 
-| 💼 Experience | 🎓 Education | 🌟 Interests | 🎯 Goals 2024 |
+| 💼 Experience | 🎓 Education | 🌟 Interests | 🎯 Goals 2025 |
 |:---:|:---:|:---:|:---:|
-| Full Stack Dev | Computer Science | AI & ML | Master Cloud Architecture |
+| Full Stack Dev | Computer Science | AI & ML | Mastering Cloud & DevSecOps |
 | ML Engineer | Cyber Security | Open Source | Contribute to 50+ repos |
-| CTF Player | Software Engineering | Web3 & Blockchain | Build 10 meaningful projects |
+| CTF Player | Software Engineering | Web3 & Blockchain | Ship 10 meaningful projects |
 
 </div>
 
@@ -88,19 +88,19 @@ const amine = {
 ### 🔥 Languages & Frameworks
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,spring,angular,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css,spring,angular,react,nodejs,fastapi,flask" />
 </p>
 
 ### 🛠️ Tools & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,linux,vscode,idea,postgresql,mongodb,redis,nginx" />
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,linux,vscode,idea,postgresql,mongodb,redis,nginx,ansible,bash" />
 </p>
 
 ### 🚀 Currently Exploring
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,tensorflow,pytorch,graphql,rust" />
+  <img src="https://skillicons.dev/icons?i=aws,tensorflow,pytorch,graphql,rust,kafka" />
 </p>
 
 ### 📊 Skill Levels
@@ -134,6 +134,17 @@ Cloud (AWS)    ████████████░░░░░░░░   60
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhlHk&custom_title=Amine's%20Contribution%20Graph&bg_color=0d1117&color=36BCF7FF&line=36BCF7FF&point=FFFFFF&area_color=0d1117&title_color=FFFFFF&area=true" alt="contribution graph">
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BhlHk&theme=github_dark" alt="Profile Details" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BhlHk&theme=github_dark" alt="Repos per language" width="24%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BhlHk&theme=github_dark" alt="Most commit language" width="24%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BhlHk&theme=github_dark" alt="Stats" width="24%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BhlHk&theme=github_dark&utcOffset=1" alt="Productive Time" width="24%"/>
+</div>
+
 ---
 
 ## 🏆 GitHub Trophies
@@ -159,8 +170,28 @@ Cloud (AWS)    ████████████░░░░░░░░   60
 ## 🎯 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/BhlHk/ServiceHub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhlHk&repo=ServiceHub&theme=dark&hide_border=true&bg_color=0d1117&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=c9d1d9" />
+  <a href="https://github.com/BhlHk/privacy-shield">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhlHk&repo=privacy-shield&theme=dark&hide_border=true&bg_color=0d1117&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/BhlHk/log-analyser">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhlHk&repo=log-analyser&theme=dark&hide_border=true&bg_color=0d1117&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=c9d1d9" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/BhlHk/projectML">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhlHk&repo=projectML&theme=dark&hide_border=true&bg_color=0d1117&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/BhlHk/atelier-devops">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhlHk&repo=atelier-devops&theme=dark&hide_border=true&bg_color=0d1117&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=c9d1d9" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/BhlHk/chatroom">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhlHk&repo=chatroom&theme=dark&hide_border=true&bg_color=0d1117&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=c9d1d9" />
+  </a>
+  <a href="https://github.com/BhlHk/cryptographie-coder">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BhlHk&repo=cryptographie-coder&theme=dark&hide_border=true&bg_color=0d1117&title_color=36BCF7FF&icon_color=36BCF7FF&text_color=c9d1d9" />
   </a>
 </div>
 
@@ -182,9 +213,9 @@ Cloud (AWS)    ████████████░░░░░░░░   60
 
 | 🚀 Current Focus | 📚 Learning | 🎯 Next Up |
 |:---:|:---:|:---:|
-| ML models for ServiceHub | Microservices with Spring Boot | Cloud Native Apps |
-| Threat Detection AI | Advanced Cyber Security | DevOps & CI/CD |
-| Open Source Contributions | System Design Patterns | Blockchain Development |
+| AI-powered threat detection system | Microservices with Spring Boot | Cloud Native Apps on AWS |
+| Privacy Shield TypeScript security tool | Advanced Cyber Security & CTFs | DevOps & CI/CD pipelines |
+| Open Source Contributions | System Design & Architecture | Blockchain & Web3 Development |
 
 </div>
 
@@ -193,11 +224,11 @@ Cloud (AWS)    ████████████░░░░░░░░   60
 <!-- BLOG-POST-LIST:START -->
 <div align="center">
   
-- 🚀 **Working on implementing ML models for ServiceHub**
-- 💡 **Exploring microservices architecture with Spring Boot**
-- 🔐 **Studying advanced cyber security concepts**
-- 📚 **Contributing to open-source projects**
-- 🎯 **Building AI-powered threat detection system**
+- 🔐 **Building Privacy Shield — a TypeScript-based privacy and security toolkit**
+- 🤖 **Developing an AI-powered threat detection system with Python & ML**
+- 🐳 **Deepening DevOps skills: Docker, Kubernetes & Ansible automation**
+- 📚 **Contributing to open-source projects and solving CTF challenges**
+- 🎯 **Exploring microservices architecture with Spring Boot & Angular**
 
 </div>
 <!-- BLOG-POST-LIST:END -->
@@ -219,6 +250,9 @@ Cloud (AWS)    ████████████░░░░░░░░   60
   </a>
   <a href="mailto:bahyoul.amine@gmail.com">
     <img src="https://img.shields.io/badge/Email-bahyoul.amine@gmail.com-D14836?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://dev.to/bhlhk">
+    <img src="https://img.shields.io/badge/Dev.to-BhlHk-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to">
   </a>
   
 </div>
@@ -244,6 +278,14 @@ Cloud (AWS)    ████████████░░░░░░░░   60
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+<br/>
+
+## 😂 Random Dev Joke
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
 </div>
 
 <br/>
